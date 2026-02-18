@@ -93,17 +93,6 @@ The dashboard enables users to:
 
 ---
 
-## 📈 Example Insights (Sample Findings)
-
-> ⚠️ Placeholder insights for demonstration purposes.
-
-- The West region generated the highest overall sales.
-- Technology category delivered the highest profit margin.
-- High discount levels negatively impacted profitability in certain sub-categories.
-- Corporate segment customers generated higher average order values.
-- Sales peak during Q4 due to seasonal demand.
-
----
 
 ## 🎯 Key Learning Outcomes
 
